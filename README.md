@@ -1,1 +1,3 @@
 # learnR
+\section{Introduction to Chapter 2}\label{sec:headings1}\index{headings}
+\newthought{if you have read other R tutorials}, you probably notice that many start with lessons on R operators (addition, multiplication, etc.), creating vectors and matrices, or control structures (if, ifelse, etc.). However, these contents are usually less relevant to psychology or social science students or teachers. Beginners in social sciences can be easily scared off by these materials. Therefore, we will not look at these functions in a separate sections. We will cover these contents later when they are applied to a statistical analysis. 
